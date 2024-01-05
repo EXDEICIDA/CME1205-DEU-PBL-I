@@ -1,0 +1,14 @@
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\bin\Debug\net7.0\ProjectPBLFirst.exe
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\bin\Debug\net7.0\ProjectPBLFirst.deps.json
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\bin\Debug\net7.0\ProjectPBLFirst.runtimeconfig.json
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\bin\Debug\net7.0\ProjectPBLFirst.dll
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\bin\Debug\net7.0\ProjectPBLFirst.pdb
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\obj\Debug\net7.0\ProjectPBLFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\obj\Debug\net7.0\ProjectPBLFirst.AssemblyInfoInputs.cache
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\obj\Debug\net7.0\ProjectPBLFirst.AssemblyInfo.cs
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\obj\Debug\net7.0\ProjectPBLFirst.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\obj\Debug\net7.0\ProjectPBLFirst.dll
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\obj\Debug\net7.0\refint\ProjectPBLFirst.dll
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\obj\Debug\net7.0\ProjectPBLFirst.pdb
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\obj\Debug\net7.0\ProjectPBLFirst.genruntimeconfig.cache
+C:\Users\DEICIDA\source\repos\ProjectPBLFirst\obj\Debug\net7.0\ref\ProjectPBLFirst.dll
