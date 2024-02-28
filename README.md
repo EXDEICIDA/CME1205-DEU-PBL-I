@@ -1,6 +1,5 @@
 # CME1205-DEU-PBL-I
  Basic C# Game: SHIFT
-Certainly! Here's a restructured and grammatically corrected version suitable for a README file on GitHub:
 
 ---
 
